@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dde9895-ef24-4c84-9cc2-4565cbfdb2e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/telegram_bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Node.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
@@ -150,6 +157,7 @@
       <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/helpers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../test2.txt" beforeDir="false" />
     </list>
@@ -209,7 +217,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614364114404</updated>
       <workItem from="1614364115490" duration="4913000" />
-      <workItem from="1614402826469" duration="325000" />
+      <workItem from="1614402826469" duration="702000" />
     </task>
     <task id="LOCAL-00001" summary="initial_commit">
       <created>1614368846833</created>
